@@ -2,7 +2,7 @@
 
 The impressive effect of having the state-of-the-art running on your hands
 
-![](https://cdn-images-1.medium.com/max/800/1*LPNkC_og-5l1UGkPuMmzkA.png)
+
 
 ### Introduction
 
